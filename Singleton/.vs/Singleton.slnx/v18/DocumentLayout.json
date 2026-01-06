@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FC8A054-F89B-4782-BA98-F15BF4715E0C}|NaiveSingleton\\NaiveSingleton.csproj|c:\\users\\gabri\\desktop\\programming_recap\\git_reps\\creational_design_patterns\\singleton\\naivesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC8A054-F89B-4782-BA98-F15BF4715E0C}|NaiveSingleton\\NaiveSingleton.csproj|solutionrelative:naivesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A5ACD0C-C23F-48B2-8BF1-AF57189D0F9F}|SingletonLazyThreadSafe\\SingletonLazyThreadSafe.csproj|c:\\users\\gabri\\desktop\\programming_recap\\git_reps\\creational_design_patterns\\singleton\\singletonlazythreadsafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5ACD0C-C23F-48B2-8BF1-AF57189D0F9F}|SingletonLazyThreadSafe\\SingletonLazyThreadSafe.csproj|solutionrelative:singletonlazythreadsafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70FAF-3D4D-46A9-BC9D-EB66F5DEC32D}|SingletonLazyLoading\\SingletonLazyLoading.csproj|c:\\users\\gabri\\desktop\\programming_recap\\git_reps\\creational_design_patterns\\singleton\\singletonlazyloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70FAF-3D4D-46A9-BC9D-EB66F5DEC32D}|SingletonLazyLoading\\SingletonLazyLoading.csproj|solutionrelative:singletonlazyloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\NaiveSingleton\\Program.cs",
-              "RelativeDocumentMoniker": "NaiveSingleton\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\NaiveSingleton\\Program.cs",
-              "RelativeToolTip": "NaiveSingleton\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\SingletonLazyThreadSafe\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonLazyThreadSafe\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\SingletonLazyThreadSafe\\Program.cs",
+              "RelativeToolTip": "SingletonLazyThreadSafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:07:04.875Z",
+              "WhenOpened": "2026-01-06T17:33:21.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\SingletonLazyLoading\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonLazyLoading\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\programming_recap\\git_reps\\creational_design_patterns\\Singleton\\SingletonLazyLoading\\Program.cs",
+              "RelativeToolTip": "SingletonLazyLoading\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:25:52.6Z",
               "EditorCaption": ""
             }
           ]

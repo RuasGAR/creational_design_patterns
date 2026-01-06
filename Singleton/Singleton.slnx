@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="NaiveSingleton/NaiveSingleton.csproj" />
+  <Project Path="NaiveSingleton/NaiveSingleton.csproj" Id="1fc8a054-f89b-4782-ba98-f15bf4715e0c" />
+  <Project Path="SingletonLazyLoading/SingletonLazyLoading.csproj" Id="05f70faf-3d4d-46a9-bc9d-eb66f5dec32d" />
+  <Project Path="SingletonLazyThreadSafe/SingletonLazyThreadSafe.csproj" Id="7a5acd0c-c23f-48b2-8bf1-af57189d0f9f" />
 </Solution>
