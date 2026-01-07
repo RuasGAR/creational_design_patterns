@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonLazyLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8034ba85fd25815c1d468ab4cd7789fc4c38a2bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f8ff1d27cac2e607de2e1c633328598336d6e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonLazyLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonLazyLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

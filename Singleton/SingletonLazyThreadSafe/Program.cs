@@ -1,16 +1,25 @@
 ﻿
 
-sealed class Singleton { 
+sealed class Singleton {
+
+    private static readonly object _lock = new();
 
     private static Singleton _instance = default!;
+
 
     public static Singleton Instance
     {
         get
         {
-            if(_instance is null)
+            if (_instance == null)
             {
-                _instance = new Singleton();
+                lock (_lock)
+                {
+                    if (_instance is null)
+                    {
+                        _instance = new Singleton();
+                    }
+                }
             }
 
             return _instance;
